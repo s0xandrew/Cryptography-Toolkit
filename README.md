@@ -3,9 +3,6 @@
 A Python-based cryptography toolkit covering classical ciphers, 
 modern hashing algorithms, Base64 encoding, and password strength analysis.
 
-Built as part of my self-taught cybersecurity sprint for 
-IIT Kanpur B.Cyber application (Wadhwani School of AI and Intelligent Systems).
-
 ---
 
 ## ⚡ Features
